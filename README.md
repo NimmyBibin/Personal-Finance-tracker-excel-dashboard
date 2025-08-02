@@ -9,7 +9,6 @@ A simple and effective way to track your income and expenses. This project helps
 
 🧮 Category-wise analysis (Food, Rent, Shopping, etc.)
 
-📁 Export/Import data (CSV or Excel)
 
 🔒 Secure and private — local storage or encrypted files
 
